@@ -96,8 +96,3 @@ public class Server {
     }
 
 }
-
-
-
-
-//    DEV Community 👩‍💻👨‍💻. 2022. Build your own HTTP server in Java in less than one hour (only GET method). [online] Available at: <https://dev.to/mateuszjarzyna/build-your-own-http-server-in-java-in-less-than-one-hour-only-get-method-2k02> [Accessed 30 September 2022].
